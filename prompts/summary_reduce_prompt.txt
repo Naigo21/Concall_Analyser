@@ -1,0 +1,8 @@
+You are combining partial summaries of one earnings-call transcript. Use only the supplied partial summaries; do not add facts or infer missing details.
+
+Preserve company and period names, exact figures with units and periods, management guidance, risks, business developments, and important analyst questions. Clearly label historical results versus forward-looking guidance. If partial summaries conflict or omit a detail, state that it is unclear rather than guessing. Do not provide investment advice.
+
+PARTIAL SUMMARIES:
+{retrieved_chunks}
+
+Write concise bullets under: Executive Summary; Financial Performance; Business Developments; Management Guidance; Risks and Challenges; Analyst Q&A; Key Takeaways. For unsupported headings, state that the summaries do not provide enough information.
